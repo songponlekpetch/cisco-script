@@ -4,4 +4,4 @@
 
 # How to run
 1. Open script folder
-2. Run command ```cisco_script.py {host} {username} {password} {enable_password}}````
+2. Run command ```cisco_script.py {host} {username} {password} {enable_password}}```
