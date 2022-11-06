@@ -1,5 +1,8 @@
 Manage cisco modem to collect running-config and modem
 
+
+![alt text](https://github.com/songponlekpetch/cisco-script/blob/main/flow_chart.png?raw=true)
+
 ## Installation
 1. Install Python 3.11.0
 2. Install paramiko with command ```pip install paramiko```
